@@ -1,0 +1,11 @@
+{ 
+   "description": "Dibujos producto de mis pensamientos y la forma en como miro el mundo a mi alrededor", 
+   "image": "https://raw.githubusercontent.com/rockevhn/Laberintos-de-la-Mente/main/Spoink.jpg", 
+   "name": "Laberintos de la Mente - Spoink", 
+   "attributes": [ 
+     { 
+       "trait_type": "Art-created-by", 
+       "value": "rockvalley.eth" 
+     }
+   ] 
+ }
